@@ -1,0 +1,8 @@
+{
+  "name": "Remix Untitled",
+  "description": "Bb vbfgfgt",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
